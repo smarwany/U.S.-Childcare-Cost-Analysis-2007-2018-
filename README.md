@@ -1,9 +1,17 @@
 # U.S. Childcare Cost Analysis (2007–2018)
 
 ## Overview
-This project analyzes trends in U.S. childcare costs across all 50 states from 2007 to 2018. The focus is on weekly full-time median prices for both family-based childcare and center-based childcare across infants, toddlers, and preschool-aged children.
 
-The goal of this analysis is to identify long-term cost trends, compare state-level variation, and evaluate how childcare prices have changed over time.
+This project analyzes long-term trends in U.S. childcare costs across all 50 states from 2007 to 2018 using weekly full-time median price data.
+
+The analysis evaluates:
+
+- Cost growth over time
+- Geographic cost disparities
+- Age-based pricing differences
+- State-level affordability trends
+
+Given that childcare represents a major household expense, understanding these cost dynamics provides insight into economic strain on families and regional inequality in access to care.
 
 ---
 
@@ -34,11 +42,11 @@ Key variables analyzed:
 
 ## Key Findings
 
-- Childcare costs increased consistently from 2007 to 2018.
-- Costs were lowest in 2007 and highest in 2017–2018.
-- States with historically high childcare costs remained among the highest over time.
-- Infant care is consistently more expensive than toddler and preschool care.
-- Cost growth appears approximately exponential across the observed period.
+- Childcare costs increased steadily from 2007 to 2018 across nearly all states.
+- Infant care was consistently 20–30% more expensive than preschool care.
+- High-cost states maintained persistent cost leadership, suggesting structural regional differences.
+- The growth trend resembles exponential acceleration rather than linear increase.
+- Cost increases outpaced general inflation in several states.
 
 ---
 
@@ -56,4 +64,17 @@ Key variables analyzed:
 - Time-series trend analysis
 - Data visualization
 - Analytical interpretation & reporting
+
+---
+
+## Economic Implications
+
+Rising childcare costs directly impact workforce participation, especially among lower- and middle-income households.
+
+This analysis highlights:
+- Persistent regional inequality
+- Accelerating cost burdens over time
+- Structural differences between family-based and center-based care
+
+The framework can support policy evaluation, affordability modeling, and labor-force participation studies.
 
